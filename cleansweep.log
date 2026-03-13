@@ -1,0 +1,601 @@
+2026-02-28 18:09:40,075 [INFO] 
+╔══════════════════════════════════════════╗
+2026-02-28 18:09:40,077 [INFO] ║         CleanSweep Utility               ║
+2026-02-28 18:09:40,077 [INFO] ╚══════════════════════════════════════════╝
+
+2026-02-28 18:09:40,077 [INFO] ========================================
+2026-02-28 18:09:40,077 [INFO]  CleanSweep — Windows App Cleanup
+2026-02-28 18:09:40,077 [INFO] ========================================
+2026-02-28 18:09:41,397 [INFO] 
+Found 142 target process(es):
+2026-02-28 18:09:41,397 [INFO]   • WhatsApp.Root.exe (PID 220)
+2026-02-28 18:09:41,398 [INFO]   • chrome.exe (PID 1572)
+2026-02-28 18:09:41,398 [INFO]   • ASCService.exe (PID 2460)
+2026-02-28 18:09:41,398 [INFO]   • ASCTray.exe (PID 3356)
+2026-02-28 18:09:41,398 [INFO]   • msedgewebview2.exe (PID 3672)
+2026-02-28 18:09:41,398 [INFO]   • MpDefenderCoreService.exe (PID 4188)
+2026-02-28 18:09:41,399 [INFO]   • wslservice.exe (PID 4208)
+2026-02-28 18:09:41,399 [INFO]   • pyrefly.exe (PID 4260)
+2026-02-28 18:09:41,399 [INFO]   • chrome.exe (PID 4372)
+2026-02-28 18:09:41,399 [INFO]   • msedgewebview2.exe (PID 4400)
+2026-02-28 18:09:41,399 [INFO]   • msedgewebview2.exe (PID 4424)
+2026-02-28 18:09:41,399 [INFO]   • msedge.exe (PID 4452)
+2026-02-28 18:09:41,400 [INFO]   • NisSrv.exe (PID 5040)
+2026-02-28 18:09:41,400 [INFO]   • Antigravity.exe (PID 5124)
+2026-02-28 18:09:41,400 [INFO]   • chrome.exe (PID 5280)
+2026-02-28 18:09:41,400 [INFO]   • chrome.exe (PID 5728)
+2026-02-28 18:09:41,400 [INFO]   • backgroundTaskHost.exe (PID 6040)
+2026-02-28 18:09:41,400 [INFO]   • chrome.exe (PID 6308)
+2026-02-28 18:09:41,400 [INFO]   • MidiSrv.exe (PID 6392)
+2026-02-28 18:09:41,401 [INFO]   • chrome.exe (PID 6412)
+2026-02-28 18:09:41,401 [INFO]   • chrome.exe (PID 6440)
+2026-02-28 18:09:41,401 [INFO]   • msedgewebview2.exe (PID 6480)
+2026-02-28 18:09:41,401 [INFO]   • Widgets.exe (PID 6584)
+2026-02-28 18:09:41,401 [INFO]   • Monitor.exe (PID 6660)
+2026-02-28 18:09:41,401 [INFO]   • DataExchangeHost.exe (PID 6892)
+2026-02-28 18:09:41,401 [INFO]   • node.exe (PID 7100)
+2026-02-28 18:09:41,401 [INFO]   • CrossDeviceResume.exe (PID 7116)
+2026-02-28 18:09:41,401 [INFO]   • msedgewebview2.exe (PID 7188)
+2026-02-28 18:09:41,402 [INFO]   • msedge.exe (PID 7424)
+2026-02-28 18:09:41,402 [INFO]   • msedge.exe (PID 7616)
+2026-02-28 18:09:41,402 [INFO]   • CrossDeviceService.exe (PID 7640)
+2026-02-28 18:09:41,402 [INFO]   • WidgetService.exe (PID 7720)
+2026-02-28 18:09:41,402 [INFO]   • python.exe (PID 8208)
+2026-02-28 18:09:41,402 [INFO]   • chrome.exe (PID 8228)
+2026-02-28 18:09:41,402 [INFO]   • msedgewebview2.exe (PID 8416)
+2026-02-28 18:09:41,402 [INFO]   • msedgewebview2.exe (PID 8888)
+2026-02-28 18:09:41,402 [INFO]   • backgroundTaskHost.exe (PID 9020)
+2026-02-28 18:09:41,403 [INFO]   • backgroundTaskHost.exe (PID 9104)
+2026-02-28 18:09:41,403 [INFO]   • msedge.exe (PID 9120)
+2026-02-28 18:09:41,403 [INFO]   • msedgewebview2.exe (PID 9264)
+2026-02-28 18:09:41,403 [INFO]   • node.exe (PID 9860)
+2026-02-28 18:09:41,403 [INFO]   • chrome.exe (PID 9996)
+2026-02-28 18:09:41,403 [INFO]   • ASC.exe (PID 10044)
+2026-02-28 18:09:41,403 [INFO]   • Antigravity.exe (PID 10644)
+2026-02-28 18:09:41,403 [INFO]   • msedgewebview2.exe (PID 10752)
+2026-02-28 18:09:41,403 [INFO]   • PhoneExperienceHost.exe (PID 10804)
+2026-02-28 18:09:41,403 [INFO]   • msedgewebview2.exe (PID 11168)
+2026-02-28 18:09:41,404 [INFO]   • Flow.Launcher.exe (PID 11192)
+2026-02-28 18:09:41,404 [INFO]   • OpenConsole.exe (PID 11364)
+2026-02-28 18:09:41,404 [INFO]   • nearby_share.exe (PID 11420)
+2026-02-28 18:09:41,404 [INFO]   • crashpad_handler.exe (PID 11892)
+2026-02-28 18:09:41,404 [INFO]   • chrome.exe (PID 12412)
+2026-02-28 18:09:41,404 [INFO]   • chrome.exe (PID 12496)
+2026-02-28 18:09:41,405 [INFO]   • UserOOBEBroker.exe (PID 12540)
+2026-02-28 18:09:41,405 [INFO]   • chrome.exe (PID 12652)
+2026-02-28 18:09:41,405 [INFO]   • msedgewebview2.exe (PID 12956)
+2026-02-28 18:09:41,405 [INFO]   • warp-svc.exe (PID 13112)
+2026-02-28 18:09:41,405 [INFO]   • UninstallMonitor.exe (PID 13560)
+2026-02-28 18:09:41,405 [INFO]   • Cloudflare WARP.exe (PID 13880)
+2026-02-28 18:09:41,405 [INFO]   • msedge.exe (PID 13956)
+2026-02-28 18:09:41,405 [INFO]   • msedgewebview2.exe (PID 14136)
+2026-02-28 18:09:41,405 [INFO]   • chrome.exe (PID 14256)
+2026-02-28 18:09:41,406 [INFO]   • node.exe (PID 14624)
+2026-02-28 18:09:41,406 [INFO]   • Antigravity.exe (PID 14764)
+2026-02-28 18:09:41,406 [INFO]   • msedgewebview2.exe (PID 15000)
+2026-02-28 18:09:41,406 [INFO]   • msedge.exe (PID 15428)
+2026-02-28 18:09:41,406 [INFO]   • msedge.exe (PID 15580)
+2026-02-28 18:09:41,406 [INFO]   • msedgewebview2.exe (PID 15652)
+2026-02-28 18:09:41,406 [INFO]   • chrome.exe (PID 15832)
+2026-02-28 18:09:41,406 [INFO]   • chrome.exe (PID 15988)
+2026-02-28 18:09:41,406 [INFO]   • Antigravity.exe (PID 16008)
+2026-02-28 18:09:41,406 [INFO]   • chrome.exe (PID 16036)
+2026-02-28 18:09:41,407 [INFO]   • OneDrive.Sync.Service.exe (PID 16948)
+2026-02-28 18:09:41,407 [INFO]   • Antigravity.exe (PID 17464)
+2026-02-28 18:09:41,407 [INFO]   • chrome.exe (PID 17768)
+2026-02-28 18:09:41,407 [INFO]   • msedgewebview2.exe (PID 17792)
+2026-02-28 18:09:41,407 [INFO]   • python.exe (PID 18200)
+2026-02-28 18:09:41,407 [INFO]   • msedgewebview2.exe (PID 18440)
+2026-02-28 18:09:41,407 [INFO]   • chrome.exe (PID 18516)
+2026-02-28 18:09:41,407 [INFO]   • Antigravity.exe (PID 18860)
+2026-02-28 18:09:41,407 [INFO]   • msedge.exe (PID 19168)
+2026-02-28 18:09:41,407 [INFO]   • chrome.exe (PID 19460)
+2026-02-28 18:09:41,407 [INFO]   • language_server_windows_x64.exe (PID 19576)
+2026-02-28 18:09:41,408 [INFO]   • Antigravity.exe (PID 19944)
+2026-02-28 18:09:41,408 [INFO]   • Antigravity.exe (PID 20144)
+2026-02-28 18:09:41,408 [INFO]   • msedge.exe (PID 21068)
+2026-02-28 18:09:41,408 [INFO]   • cmd.exe (PID 21456)
+2026-02-28 18:09:41,408 [INFO]   • msedgewebview2.exe (PID 22040)
+2026-02-28 18:09:41,408 [INFO]   • WmiPrvSE.exe (PID 22340)
+2026-02-28 18:09:41,408 [INFO]   • backgroundTaskHost.exe (PID 22732)
+2026-02-28 18:09:41,408 [INFO]   • chrome.exe (PID 23520)
+2026-02-28 18:09:41,408 [INFO]   • Antigravity.exe (PID 23844)
+2026-02-28 18:09:41,409 [INFO]   • powershell.exe (PID 24056)
+2026-02-28 18:09:41,409 [INFO]   • chrome.exe (PID 24288)
+2026-02-28 18:09:41,409 [INFO]   • msedge.exe (PID 24700)
+2026-02-28 18:09:41,409 [INFO]   • msedgewebview2.exe (PID 24828)
+2026-02-28 18:09:41,409 [INFO]   • Antigravity.exe (PID 24952)
+2026-02-28 18:09:41,409 [INFO]   • chrome.exe (PID 25088)
+2026-02-28 18:09:41,409 [INFO]   • node.exe (PID 25552)
+2026-02-28 18:09:41,409 [INFO]   • node.exe (PID 26056)
+2026-02-28 18:09:41,409 [INFO]   • msedgewebview2.exe (PID 26364)
+2026-02-28 18:09:41,409 [INFO]   • msedge.exe (PID 26392)
+2026-02-28 18:09:41,410 [INFO]   • msedge.exe (PID 26520)
+2026-02-28 18:09:41,410 [INFO]   • powershell.exe (PID 27492)
+2026-02-28 18:09:41,410 [INFO]   • chrome.exe (PID 27536)
+2026-02-28 18:09:41,410 [INFO]   • msedge.exe (PID 27872)
+2026-02-28 18:09:41,410 [INFO]   • chrome.exe (PID 27884)
+2026-02-28 18:09:41,410 [INFO]   • chrome.exe (PID 28520)
+2026-02-28 18:09:41,410 [INFO]   • cmd.exe (PID 28748)
+2026-02-28 18:09:41,410 [INFO]   • codex.exe (PID 29604)
+2026-02-28 18:09:41,411 [INFO]   • smartscreen.exe (PID 29840)
+2026-02-28 18:09:41,411 [INFO]   • msedgewebview2.exe (PID 29968)
+2026-02-28 18:09:41,411 [INFO]   • chrome.exe (PID 30168)
+2026-02-28 18:09:41,411 [INFO]   • Antigravity.exe (PID 30316)
+2026-02-28 18:09:41,411 [INFO]   • chrome.exe (PID 30660)
+2026-02-28 18:09:41,411 [INFO]   • python.exe (PID 31240)
+2026-02-28 18:09:41,411 [INFO]   • Antigravity.exe (PID 31332)
+2026-02-28 18:09:41,411 [INFO]   • python.exe (PID 31348)
+2026-02-28 18:09:41,412 [INFO]   • SearchProtocolHost.exe (PID 31492)
+2026-02-28 18:09:41,412 [INFO]   • chrome.exe (PID 31564)
+2026-02-28 18:09:41,412 [INFO]   • Antigravity.exe (PID 32668)
+2026-02-28 18:09:41,412 [INFO]   • chrome.exe (PID 32864)
+2026-02-28 18:09:41,412 [INFO]   • ShellHost.exe (PID 33132)
+2026-02-28 18:09:41,412 [INFO]   • OpenConsole.exe (PID 33224)
+2026-02-28 18:09:41,412 [INFO]   • node.exe (PID 33288)
+2026-02-28 18:09:41,412 [INFO]   • chrome.exe (PID 33764)
+2026-02-28 18:09:41,413 [INFO]   • Antigravity.exe (PID 33824)
+2026-02-28 18:09:41,413 [INFO]   • chrome.exe (PID 33908)
+2026-02-28 18:09:41,413 [INFO]   • chrome.exe (PID 33936)
+2026-02-28 18:09:41,413 [INFO]   • powershell.exe (PID 34156)
+2026-02-28 18:09:41,413 [INFO]   • Antigravity.exe (PID 34304)
+2026-02-28 18:09:41,413 [INFO]   • OpenConsole.exe (PID 34740)
+2026-02-28 18:09:41,413 [INFO]   • chrome.exe (PID 35000)
+2026-02-28 18:09:41,413 [INFO]   • chrome.exe (PID 35188)
+2026-02-28 18:09:41,413 [INFO]   • powershell.exe (PID 35292)
+2026-02-28 18:09:41,414 [INFO]   • chrome.exe (PID 35328)
+2026-02-28 18:09:41,414 [INFO]   • Antigravity.exe (PID 35596)
+2026-02-28 18:09:41,414 [INFO]   • python.exe (PID 35964)
+2026-02-28 18:09:41,414 [INFO]   • python.exe (PID 36012)
+2026-02-28 18:09:41,414 [INFO]   • Antigravity.exe (PID 36160)
+2026-02-28 18:09:41,414 [INFO]   • Antigravity.exe (PID 36716)
+2026-02-28 18:09:41,414 [INFO]   • Antigravity.exe (PID 36764)
+2026-02-28 18:09:41,414 [INFO] 
+2026-02-28 18:09:44,251 [INFO] 
+Attempting graceful close: WhatsApp.Root.exe (PID 220)
+2026-02-28 18:09:49,256 [INFO]   Timeout — force killing: WhatsApp.Root.exe
+2026-02-28 18:09:49,402 [INFO]   ✓ Force-killed: WhatsApp.Root.exe
+2026-02-28 18:09:49,403 [INFO] 
+Attempting graceful close: chrome.exe (PID 1572)
+2026-02-28 18:09:49,423 [INFO]   ✓ Closed successfully: chrome.exe
+2026-02-28 18:09:49,424 [INFO] 
+Attempting graceful close: ASCService.exe (PID 2460)
+2026-02-28 18:09:49,463 [INFO]   ✓ Closed successfully: ASCService.exe
+2026-02-28 18:09:49,463 [INFO] 
+Attempting graceful close: ASCTray.exe (PID 3356)
+2026-02-28 18:09:54,479 [INFO]   Timeout — force killing: ASCTray.exe
+2026-02-28 18:09:54,499 [INFO]   ✓ Force-killed: ASCTray.exe
+2026-02-28 18:09:54,499 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 3672)
+2026-02-28 18:09:54,500 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:09:54,500 [INFO] 
+Attempting graceful close: MpDefenderCoreService.exe (PID 4188)
+2026-02-28 18:09:54,501 [WARNING]   ✗ Access denied for MpDefenderCoreService.exe — try running as Administrator.
+2026-02-28 18:09:54,501 [INFO] 
+Attempting graceful close: wslservice.exe (PID 4208)
+2026-02-28 18:09:54,510 [INFO]   ✓ Closed successfully: wslservice.exe
+2026-02-28 18:09:54,510 [INFO] 
+Attempting graceful close: pyrefly.exe (PID 4260)
+2026-02-28 18:09:54,526 [INFO]   ✓ Closed successfully: pyrefly.exe
+2026-02-28 18:09:54,526 [INFO] 
+Attempting graceful close: chrome.exe (PID 4372)
+2026-02-28 18:09:54,577 [INFO]   ✓ Closed successfully: chrome.exe
+2026-02-28 18:09:54,577 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 4400)
+2026-02-28 18:09:54,585 [INFO]   ✓ Closed successfully: msedgewebview2.exe
+2026-02-28 18:09:54,586 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 4424)
+2026-02-28 18:09:59,590 [INFO]   Timeout — force killing: msedgewebview2.exe
+2026-02-28 18:09:59,656 [INFO]   ✓ Force-killed: msedgewebview2.exe
+2026-02-28 18:09:59,656 [INFO] 
+Attempting graceful close: msedge.exe (PID 4452)
+2026-02-28 18:09:59,688 [INFO]   ✓ Closed successfully: msedge.exe
+2026-02-28 18:09:59,689 [INFO] 
+Attempting graceful close: NisSrv.exe (PID 5040)
+2026-02-28 18:09:59,690 [WARNING]   ✗ Access denied for NisSrv.exe — try running as Administrator.
+2026-02-28 18:09:59,691 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 5124)
+2026-02-28 18:10:04,695 [INFO]   Timeout — force killing: Antigravity.exe
+2026-02-28 18:10:04,707 [INFO]   ✓ Force-killed: Antigravity.exe
+2026-02-28 18:10:04,708 [INFO] 
+Attempting graceful close: chrome.exe (PID 5280)
+2026-02-28 18:10:09,716 [INFO]   Timeout — force killing: chrome.exe
+2026-02-28 18:10:09,845 [INFO]   ✓ Force-killed: chrome.exe
+2026-02-28 18:10:09,845 [INFO] 
+Attempting graceful close: chrome.exe (PID 5728)
+2026-02-28 18:10:10,161 [INFO]   ✓ Closed successfully: chrome.exe
+2026-02-28 18:10:10,161 [INFO] 
+Attempting graceful close: backgroundTaskHost.exe (PID 6040)
+2026-02-28 18:10:10,199 [INFO]   ✓ Closed successfully: backgroundTaskHost.exe
+2026-02-28 18:10:10,199 [INFO] 
+Attempting graceful close: chrome.exe (PID 6308)
+2026-02-28 18:10:10,224 [INFO]   ✓ Closed successfully: chrome.exe
+2026-02-28 18:10:10,224 [INFO] 
+Attempting graceful close: MidiSrv.exe (PID 6392)
+2026-02-28 18:10:10,242 [INFO]   ✓ Closed successfully: MidiSrv.exe
+2026-02-28 18:10:10,244 [INFO] 
+Attempting graceful close: chrome.exe (PID 6412)
+2026-02-28 18:10:10,268 [INFO]   ✓ Closed successfully: chrome.exe
+2026-02-28 18:10:10,268 [INFO] 
+Attempting graceful close: chrome.exe (PID 6440)
+2026-02-28 18:10:15,285 [INFO]   Timeout — force killing: chrome.exe
+2026-02-28 18:10:15,682 [INFO]   ✓ Force-killed: chrome.exe
+2026-02-28 18:10:15,682 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 6480)
+2026-02-28 18:10:15,683 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:15,684 [INFO] 
+Attempting graceful close: Widgets.exe (PID 6584)
+2026-02-28 18:10:15,736 [INFO]   ✓ Closed successfully: Widgets.exe
+2026-02-28 18:10:15,736 [INFO] 
+Attempting graceful close: Monitor.exe (PID 6660)
+2026-02-28 18:10:15,835 [INFO]   ✓ Closed successfully: Monitor.exe
+2026-02-28 18:10:15,836 [INFO] 
+Attempting graceful close: DataExchangeHost.exe (PID 6892)
+2026-02-28 18:10:15,850 [INFO]   ✓ Closed successfully: DataExchangeHost.exe
+2026-02-28 18:10:15,851 [INFO] 
+Attempting graceful close: node.exe (PID 7100)
+2026-02-28 18:10:16,111 [INFO]   ✓ Closed successfully: node.exe
+2026-02-28 18:10:16,111 [INFO] 
+Attempting graceful close: CrossDeviceResume.exe (PID 7116)
+2026-02-28 18:10:21,124 [INFO]   Timeout — force killing: CrossDeviceResume.exe
+2026-02-28 18:10:21,143 [INFO]   ✓ Force-killed: CrossDeviceResume.exe
+2026-02-28 18:10:21,144 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 7188)
+2026-02-28 18:10:21,145 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:21,146 [INFO] 
+Attempting graceful close: msedge.exe (PID 7424)
+2026-02-28 18:10:21,171 [INFO]   ✓ Closed successfully: msedge.exe
+2026-02-28 18:10:21,171 [INFO] 
+Attempting graceful close: msedge.exe (PID 7616)
+2026-02-28 18:10:26,181 [INFO]   Timeout — force killing: msedge.exe
+2026-02-28 18:10:26,186 [INFO]   ✓ Force-killed: msedge.exe
+2026-02-28 18:10:26,186 [INFO] 
+Attempting graceful close: CrossDeviceService.exe (PID 7640)
+2026-02-28 18:10:31,201 [INFO]   Timeout — force killing: CrossDeviceService.exe
+2026-02-28 18:10:31,270 [INFO]   ✓ Force-killed: CrossDeviceService.exe
+2026-02-28 18:10:31,270 [INFO] 
+Attempting graceful close: WidgetService.exe (PID 7720)
+2026-02-28 18:10:31,284 [INFO]   ✓ Closed successfully: WidgetService.exe
+2026-02-28 18:10:31,284 [INFO] 
+Attempting graceful close: python.exe (PID 8208)
+2026-02-28 18:10:31,287 [INFO]   ✓ Closed successfully: python.exe
+2026-02-28 18:10:31,287 [INFO] 
+Attempting graceful close: chrome.exe (PID 8228)
+2026-02-28 18:10:31,289 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:10:31,290 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 8416)
+2026-02-28 18:10:31,292 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:31,292 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 8888)
+2026-02-28 18:10:31,293 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:31,293 [INFO] 
+Attempting graceful close: backgroundTaskHost.exe (PID 9020)
+2026-02-28 18:10:31,307 [INFO]   ✓ Closed successfully: backgroundTaskHost.exe
+2026-02-28 18:10:31,307 [INFO] 
+Attempting graceful close: backgroundTaskHost.exe (PID 9104)
+2026-02-28 18:10:31,324 [INFO]   ✓ Closed successfully: backgroundTaskHost.exe
+2026-02-28 18:10:31,324 [INFO] 
+Attempting graceful close: msedge.exe (PID 9120)
+2026-02-28 18:10:31,394 [INFO]   ✓ Closed successfully: msedge.exe
+2026-02-28 18:10:31,395 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 9264)
+2026-02-28 18:10:31,396 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:31,396 [INFO] 
+Attempting graceful close: node.exe (PID 9860)
+2026-02-28 18:10:31,399 [INFO]   ✓ Already exited: node.exe
+2026-02-28 18:10:31,400 [INFO] 
+Attempting graceful close: chrome.exe (PID 9996)
+2026-02-28 18:10:31,401 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:10:31,402 [INFO] 
+Attempting graceful close: ASC.exe (PID 10044)
+2026-02-28 18:10:36,409 [INFO]   Timeout — force killing: ASC.exe
+2026-02-28 18:10:36,455 [INFO]   ✓ Force-killed: ASC.exe
+2026-02-28 18:10:36,455 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 10644)
+2026-02-28 18:10:36,464 [INFO]   ✓ Closed successfully: Antigravity.exe
+2026-02-28 18:10:36,465 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 10752)
+2026-02-28 18:10:36,489 [INFO]   ✓ Closed successfully: msedgewebview2.exe
+2026-02-28 18:10:36,490 [INFO] 
+Attempting graceful close: PhoneExperienceHost.exe (PID 10804)
+2026-02-28 18:10:41,499 [INFO]   Timeout — force killing: PhoneExperienceHost.exe
+2026-02-28 18:10:41,584 [INFO]   ✓ Force-killed: PhoneExperienceHost.exe
+2026-02-28 18:10:41,585 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 11168)
+2026-02-28 18:10:41,586 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:41,586 [INFO] 
+Attempting graceful close: Flow.Launcher.exe (PID 11192)
+2026-02-28 18:10:42,534 [INFO]   ✓ Closed successfully: Flow.Launcher.exe
+2026-02-28 18:10:42,534 [INFO] 
+Attempting graceful close: OpenConsole.exe (PID 11364)
+2026-02-28 18:10:42,543 [INFO]   ✓ Closed successfully: OpenConsole.exe
+2026-02-28 18:10:42,544 [INFO] 
+Attempting graceful close: nearby_share.exe (PID 11420)
+2026-02-28 18:10:47,547 [INFO]   Timeout — force killing: nearby_share.exe
+2026-02-28 18:10:47,574 [INFO]   ✓ Force-killed: nearby_share.exe
+2026-02-28 18:10:47,574 [INFO] 
+Attempting graceful close: crashpad_handler.exe (PID 11892)
+2026-02-28 18:10:47,586 [INFO]   ✓ Closed successfully: crashpad_handler.exe
+2026-02-28 18:10:47,586 [INFO] 
+Attempting graceful close: chrome.exe (PID 12412)
+2026-02-28 18:10:47,587 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:10:47,587 [INFO] 
+Attempting graceful close: chrome.exe (PID 12496)
+2026-02-28 18:10:47,588 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:10:47,588 [INFO] 
+Attempting graceful close: UserOOBEBroker.exe (PID 12540)
+2026-02-28 18:10:47,594 [INFO]   ✓ Closed successfully: UserOOBEBroker.exe
+2026-02-28 18:10:47,594 [INFO] 
+Attempting graceful close: chrome.exe (PID 12652)
+2026-02-28 18:10:47,594 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:10:47,594 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 12956)
+2026-02-28 18:10:47,595 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:47,595 [INFO] 
+Attempting graceful close: warp-svc.exe (PID 13112)
+2026-02-28 18:10:47,898 [INFO]   ✓ Closed successfully: warp-svc.exe
+2026-02-28 18:10:47,898 [INFO] 
+Attempting graceful close: UninstallMonitor.exe (PID 13560)
+2026-02-28 18:10:49,460 [INFO]   ✓ Closed successfully: UninstallMonitor.exe
+2026-02-28 18:10:49,460 [INFO] 
+Attempting graceful close: Cloudflare WARP.exe (PID 13880)
+2026-02-28 18:10:49,644 [INFO]   ✓ Closed successfully: Cloudflare WARP.exe
+2026-02-28 18:10:49,644 [INFO] 
+Attempting graceful close: msedge.exe (PID 13956)
+2026-02-28 18:10:49,655 [INFO]   ✓ Closed successfully: msedge.exe
+2026-02-28 18:10:49,655 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 14136)
+2026-02-28 18:10:49,656 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:49,656 [INFO] 
+Attempting graceful close: chrome.exe (PID 14256)
+2026-02-28 18:10:49,657 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:10:49,657 [INFO] 
+Attempting graceful close: node.exe (PID 14624)
+2026-02-28 18:10:49,658 [INFO]   ✓ Already exited: node.exe
+2026-02-28 18:10:49,658 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 14764)
+2026-02-28 18:10:49,696 [INFO]   ✓ Closed successfully: Antigravity.exe
+2026-02-28 18:10:49,696 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 15000)
+2026-02-28 18:10:49,698 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:49,698 [INFO] 
+Attempting graceful close: msedge.exe (PID 15428)
+2026-02-28 18:10:49,757 [INFO]   ✓ Closed successfully: msedge.exe
+2026-02-28 18:10:49,757 [INFO] 
+Attempting graceful close: msedge.exe (PID 15580)
+2026-02-28 18:10:54,770 [INFO]   Timeout — force killing: msedge.exe
+2026-02-28 18:10:54,912 [INFO]   ✓ Force-killed: msedge.exe
+2026-02-28 18:10:54,913 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 15652)
+2026-02-28 18:10:54,913 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:10:54,913 [INFO] 
+Attempting graceful close: chrome.exe (PID 15832)
+2026-02-28 18:10:54,913 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:10:54,913 [INFO] 
+Attempting graceful close: chrome.exe (PID 15988)
+2026-02-28 18:10:54,914 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:10:54,914 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 16008)
+2026-02-28 18:10:54,922 [INFO]   ✓ Closed successfully: Antigravity.exe
+2026-02-28 18:10:54,922 [INFO] 
+Attempting graceful close: chrome.exe (PID 16036)
+2026-02-28 18:10:54,922 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:10:54,922 [INFO] 
+Attempting graceful close: OneDrive.Sync.Service.exe (PID 16948)
+2026-02-28 18:10:56,549 [INFO]   ✓ Closed successfully: OneDrive.Sync.Service.exe
+2026-02-28 18:10:56,549 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 17464)
+2026-02-28 18:11:01,563 [INFO]   Timeout — force killing: Antigravity.exe
+2026-02-28 18:11:01,654 [INFO]   ✓ Force-killed: Antigravity.exe
+2026-02-28 18:11:01,655 [INFO] 
+Attempting graceful close: chrome.exe (PID 17768)
+2026-02-28 18:11:01,655 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:01,656 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 17792)
+2026-02-28 18:11:01,707 [INFO]   ✓ Closed successfully: msedgewebview2.exe
+2026-02-28 18:11:01,707 [INFO] 
+Attempting graceful close: python.exe (PID 18200)
+2026-02-28 18:11:01,708 [INFO]   ✓ Already exited: python.exe
+2026-02-28 18:11:01,709 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 18440)
+2026-02-28 18:11:01,731 [INFO]   ✓ Closed successfully: msedgewebview2.exe
+2026-02-28 18:11:01,731 [INFO] 
+Attempting graceful close: chrome.exe (PID 18516)
+2026-02-28 18:11:01,732 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:01,733 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 18860)
+2026-02-28 18:11:03,007 [INFO]   ✓ Closed successfully: Antigravity.exe
+2026-02-28 18:11:03,007 [INFO] 
+Attempting graceful close: msedge.exe (PID 19168)
+2026-02-28 18:11:03,008 [INFO]   ✓ Already exited: msedge.exe
+2026-02-28 18:11:03,008 [INFO] 
+Attempting graceful close: chrome.exe (PID 19460)
+2026-02-28 18:11:03,009 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,009 [INFO] 
+Attempting graceful close: language_server_windows_x64.exe (PID 19576)
+2026-02-28 18:11:03,010 [INFO]   ✓ Already exited: language_server_windows_x64.exe
+2026-02-28 18:11:03,010 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 19944)
+2026-02-28 18:11:03,011 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:03,011 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 20144)
+2026-02-28 18:11:03,012 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:03,012 [INFO] 
+Attempting graceful close: msedge.exe (PID 21068)
+2026-02-28 18:11:03,012 [INFO]   ✓ Already exited: msedge.exe
+2026-02-28 18:11:03,013 [INFO] 
+Attempting graceful close: cmd.exe (PID 21456)
+2026-02-28 18:11:03,013 [INFO]   ✓ Already exited: cmd.exe
+2026-02-28 18:11:03,013 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 22040)
+2026-02-28 18:11:03,014 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:11:03,014 [INFO] 
+Attempting graceful close: WmiPrvSE.exe (PID 22340)
+2026-02-28 18:11:03,019 [INFO]   ✓ Closed successfully: WmiPrvSE.exe
+2026-02-28 18:11:03,019 [INFO] 
+Attempting graceful close: backgroundTaskHost.exe (PID 22732)
+2026-02-28 18:11:03,032 [INFO]   ✓ Closed successfully: backgroundTaskHost.exe
+2026-02-28 18:11:03,032 [INFO] 
+Attempting graceful close: chrome.exe (PID 23520)
+2026-02-28 18:11:03,033 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,033 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 23844)
+2026-02-28 18:11:03,034 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:03,034 [INFO] 
+Attempting graceful close: powershell.exe (PID 24056)
+2026-02-28 18:11:03,035 [INFO]   ✓ Already exited: powershell.exe
+2026-02-28 18:11:03,035 [INFO] 
+Attempting graceful close: chrome.exe (PID 24288)
+2026-02-28 18:11:03,036 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,036 [INFO] 
+Attempting graceful close: msedge.exe (PID 24700)
+2026-02-28 18:11:03,037 [INFO]   ✓ Already exited: msedge.exe
+2026-02-28 18:11:03,037 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 24828)
+2026-02-28 18:11:03,110 [INFO]   ✓ Closed successfully: msedgewebview2.exe
+2026-02-28 18:11:03,111 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 24952)
+2026-02-28 18:11:03,112 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:03,112 [INFO] 
+Attempting graceful close: chrome.exe (PID 25088)
+2026-02-28 18:11:03,112 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,112 [INFO] 
+Attempting graceful close: node.exe (PID 25552)
+2026-02-28 18:11:03,113 [INFO]   ✓ Already exited: node.exe
+2026-02-28 18:11:03,113 [INFO] 
+Attempting graceful close: node.exe (PID 26056)
+2026-02-28 18:11:03,113 [INFO]   ✓ Already exited: node.exe
+2026-02-28 18:11:03,113 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 26364)
+2026-02-28 18:11:03,114 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:11:03,114 [INFO] 
+Attempting graceful close: msedge.exe (PID 26392)
+2026-02-28 18:11:03,114 [INFO]   ✓ Already exited: msedge.exe
+2026-02-28 18:11:03,114 [INFO] 
+Attempting graceful close: msedge.exe (PID 26520)
+2026-02-28 18:11:03,115 [INFO]   ✓ Already exited: msedge.exe
+2026-02-28 18:11:03,115 [INFO] 
+Attempting graceful close: powershell.exe (PID 27492)
+2026-02-28 18:11:03,115 [INFO]   ✓ Already exited: powershell.exe
+2026-02-28 18:11:03,116 [INFO] 
+Attempting graceful close: chrome.exe (PID 27536)
+2026-02-28 18:11:03,116 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,116 [INFO] 
+Attempting graceful close: msedge.exe (PID 27872)
+2026-02-28 18:11:03,117 [INFO]   ✓ Already exited: msedge.exe
+2026-02-28 18:11:03,117 [INFO] 
+Attempting graceful close: chrome.exe (PID 27884)
+2026-02-28 18:11:03,118 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,118 [INFO] 
+Attempting graceful close: chrome.exe (PID 28520)
+2026-02-28 18:11:03,119 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,119 [INFO] 
+Attempting graceful close: cmd.exe (PID 28748)
+2026-02-28 18:11:03,119 [INFO]   ✓ Already exited: cmd.exe
+2026-02-28 18:11:03,120 [INFO] 
+Attempting graceful close: codex.exe (PID 29604)
+2026-02-28 18:11:03,130 [INFO]   ✓ Closed successfully: codex.exe
+2026-02-28 18:11:03,130 [INFO] 
+Attempting graceful close: smartscreen.exe (PID 29840)
+2026-02-28 18:11:03,140 [INFO]   ✓ Closed successfully: smartscreen.exe
+2026-02-28 18:11:03,140 [INFO] 
+Attempting graceful close: msedgewebview2.exe (PID 29968)
+2026-02-28 18:11:03,141 [INFO]   ✓ Already exited: msedgewebview2.exe
+2026-02-28 18:11:03,141 [INFO] 
+Attempting graceful close: chrome.exe (PID 30168)
+2026-02-28 18:11:03,142 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,142 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 30316)
+2026-02-28 18:11:03,143 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:03,143 [INFO] 
+Attempting graceful close: chrome.exe (PID 30660)
+2026-02-28 18:11:03,144 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,144 [INFO] 
+Attempting graceful close: python.exe (PID 31240)
+2026-02-28 18:11:03,145 [INFO]   ✓ Already exited: python.exe
+2026-02-28 18:11:03,145 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 31332)
+2026-02-28 18:11:03,146 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:03,146 [INFO] 
+Attempting graceful close: python.exe (PID 31348)
+2026-02-28 18:11:03,147 [INFO]   ✓ Already exited: python.exe
+2026-02-28 18:11:03,147 [INFO] 
+Attempting graceful close: SearchProtocolHost.exe (PID 31492)
+2026-02-28 18:11:03,148 [INFO]   ✓ Already exited: SearchProtocolHost.exe
+2026-02-28 18:11:03,148 [INFO] 
+Attempting graceful close: chrome.exe (PID 31564)
+2026-02-28 18:11:03,148 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,149 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 32668)
+2026-02-28 18:11:03,149 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:03,150 [INFO] 
+Attempting graceful close: chrome.exe (PID 32864)
+2026-02-28 18:11:03,150 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:03,151 [INFO] 
+Attempting graceful close: ShellHost.exe (PID 33132)
+2026-02-28 18:11:08,166 [INFO]   Timeout — force killing: ShellHost.exe
+2026-02-28 18:11:08,205 [INFO]   ✓ Force-killed: ShellHost.exe
+2026-02-28 18:11:08,205 [INFO] 
+Attempting graceful close: OpenConsole.exe (PID 33224)
+2026-02-28 18:11:08,218 [INFO]   ✓ Closed successfully: OpenConsole.exe
+2026-02-28 18:11:08,219 [INFO] 
+Attempting graceful close: node.exe (PID 33288)
+2026-02-28 18:11:08,220 [INFO]   ✓ Already exited: node.exe
+2026-02-28 18:11:08,220 [INFO] 
+Attempting graceful close: chrome.exe (PID 33764)
+2026-02-28 18:11:08,221 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:08,221 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 33824)
+2026-02-28 18:11:08,222 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:08,223 [INFO] 
+Attempting graceful close: chrome.exe (PID 33908)
+2026-02-28 18:11:08,223 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:08,223 [INFO] 
+Attempting graceful close: chrome.exe (PID 33936)
+2026-02-28 18:11:08,223 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:08,224 [INFO] 
+Attempting graceful close: powershell.exe (PID 34156)
+2026-02-28 18:11:13,228 [INFO]   Timeout — force killing: powershell.exe
+2026-02-28 18:11:13,240 [INFO]   ✓ Force-killed: powershell.exe
+2026-02-28 18:11:13,240 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 34304)
+2026-02-28 18:11:13,241 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:13,241 [INFO] 
+Attempting graceful close: OpenConsole.exe (PID 34740)
+2026-02-28 18:11:13,241 [INFO]   ✓ Already exited: OpenConsole.exe
+2026-02-28 18:11:13,241 [INFO] 
+Attempting graceful close: chrome.exe (PID 35000)
+2026-02-28 18:11:13,241 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:13,241 [INFO] 
+Attempting graceful close: chrome.exe (PID 35188)
+2026-02-28 18:11:13,242 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:13,242 [INFO] 
+Attempting graceful close: powershell.exe (PID 35292)
+2026-02-28 18:11:13,242 [INFO]   ✓ Already exited: powershell.exe
+2026-02-28 18:11:13,242 [INFO] 
+Attempting graceful close: chrome.exe (PID 35328)
+2026-02-28 18:11:13,242 [INFO]   ✓ Already exited: chrome.exe
+2026-02-28 18:11:13,243 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 35596)
+2026-02-28 18:11:13,243 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:13,243 [INFO] 
+Attempting graceful close: python.exe (PID 35964)
+2026-02-28 18:11:13,244 [INFO]   ✓ Already exited: python.exe
+2026-02-28 18:11:13,244 [INFO] 
+Attempting graceful close: python.exe (PID 36012)
+2026-02-28 18:11:13,244 [INFO]   ✓ Already exited: python.exe
+2026-02-28 18:11:13,244 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 36160)
+2026-02-28 18:11:13,245 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:13,245 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 36716)
+2026-02-28 18:11:13,245 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:13,245 [INFO] 
+Attempting graceful close: Antigravity.exe (PID 36764)
+2026-02-28 18:11:13,245 [INFO]   ✓ Already exited: Antigravity.exe
+2026-02-28 18:11:13,246 [INFO] 
+========================================
+2026-02-28 18:11:13,246 [INFO]  Cleanup completed
+2026-02-28 18:11:13,246 [INFO]    Closed: 140   |   Failed/Skipped: 2
+2026-02-28 18:11:13,246 [INFO]  System & whitelisted processes preserved
+2026-02-28 18:11:13,246 [INFO] ========================================
